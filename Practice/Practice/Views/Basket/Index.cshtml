@@ -1,0 +1,23 @@
+﻿@model BasketPageVM
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+
+@foreach(var item in Model.Products)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th><img src="~/img/@item.ProductImages.FirstOrDefault(m=>m.IsMain = true).Name" style="width:82px; height:82px"  /></th>
+                <th style="vertical-align:middle">@item.Name</th>
+                <th style="vertical-align:middle">$@item.Price</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+}

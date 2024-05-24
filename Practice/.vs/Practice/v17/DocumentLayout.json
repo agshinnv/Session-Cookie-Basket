@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Session, Cookie, Basket\\Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59F02B7F-C97F-4223-982A-8352F1871DD1}|Practice\\Practice.csproj|c:\\users\\agshin\\desktop\\fullstackdeveloper\\backend\\asp.net\\session, cookie, basket\\practice\\practice\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F02B7F-C97F-4223-982A-8352F1871DD1}|Practice\\Practice.csproj|solutionrelative:practice\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F02B7F-C97F-4223-982A-8352F1871DD1}|Practice\\Practice.csproj|c:\\users\\agshin\\desktop\\fullstackdeveloper\\backend\\asp.net\\session, cookie, basket\\practice\\practice\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59F02B7F-C97F-4223-982A-8352F1871DD1}|Practice\\Practice.csproj|solutionrelative:practice\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F02B7F-C97F-4223-982A-8352F1871DD1}|Practice\\Practice.csproj|c:\\users\\agshin\\desktop\\fullstackdeveloper\\backend\\asp.net\\session, cookie, basket\\practice\\practice\\viewmodels\\baskets\\basketpagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F02B7F-C97F-4223-982A-8352F1871DD1}|Practice\\Practice.csproj|solutionrelative:practice\\viewmodels\\baskets\\basketpagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasketPageVM.cs",
+              "DocumentMoniker": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Session, Cookie, Basket\\Practice\\Practice\\ViewModels\\Baskets\\BasketPageVM.cs",
+              "RelativeDocumentMoniker": "Practice\\ViewModels\\Baskets\\BasketPageVM.cs",
+              "ToolTip": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Session, Cookie, Basket\\Practice\\Practice\\ViewModels\\Baskets\\BasketPageVM.cs",
+              "RelativeToolTip": "Practice\\ViewModels\\Baskets\\BasketPageVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:28:46.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Session, Cookie, Basket\\Practice\\Practice\\Views\\Basket\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practice\\Views\\Basket\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Session, Cookie, Basket\\Practice\\Practice\\Views\\Basket\\Index.cshtml",
+              "RelativeToolTip": "Practice\\Views\\Basket\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T18:16:09.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Session, Cookie, Basket\\Practice\\Practice\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "Practice\\Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Session, Cookie, Basket\\Practice\\Practice\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "Practice\\Controllers\\BasketController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:13:41.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
